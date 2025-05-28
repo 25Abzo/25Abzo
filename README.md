@@ -21,6 +21,7 @@
 - 📧 Email : `diawabdoulaye25omar@gmail.com` 
 - 💼 LinkedIn : [linkedin.com/in/abdoulaye-diaw](https://www.linkedin.com/in/25abdoulayediaw)
 - 🌐 Portfolio : [abdoulayediaw.dev](https://abdoulaye-diaw.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Mon%20site-abdoulaye--diaw.vercel.app-blue?style=flat&logo=vercel&logoColor=white)](https://abdoulaye-diaw.vercel.app)
 
 ## 🛠️ Compétences & outils
 
