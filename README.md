@@ -40,13 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=25Abzo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-## 😄 Fun fact
+##  Fun fact
 
 > Je crois qu’un bon développeur est avant tout un éternel apprenant.  
 > Chaque projet, même petit, est une chance de devenir meilleur.
 
----
-
-> ✨ Ce dépôt est spécial car son `README.md` s'affiche sur ton profil GitHub.  
-> N’hésite pas à le mettre à jour régulièrement pour refléter ton évolution !
 
