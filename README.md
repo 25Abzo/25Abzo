@@ -2,7 +2,7 @@
 
 ## À propos
 
-Étudiant en informatique, passionné par l'intelligence artificielle, le développement web et les technologies modernes. Je suis motivé par la création de solutions intelligentes, utiles et centrées sur l'utilisateur.
+Titulaire d'une Licence en Génie Logiciel et Systèmes d'information, le développement web et les technologies modernes. Je suis motivé par la création de solutions intelligentes, utiles et centrées sur l'utilisateur.
 
 - Actuellement en formation en data science, machine learning, FastAPI, Next.js et MongoDB.
 - Intéressé par les API sécurisées, les systèmes distribués, et l'architecture fullstack.
