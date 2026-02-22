@@ -1,52 +1,56 @@
 # Abdoulaye DIAW
+### AI Engineer Junior | Full-Stack Developer | Master IA & Big Data
 
-## À propos
-
-Titulaire d'une Licence en Génie Logiciel et Systèmes d'information, le développement web et les technologies modernes. Je suis motivé par la création de solutions intelligentes, utiles et centrées sur l'utilisateur.
-
-- Actuellement en formation en data science, machine learning, FastAPI, Next.js et MongoDB.
-- Intéressé par les API sécurisées, les systèmes distribués, et l'architecture fullstack.
-- Je construis des projets techniques, pratiques et bien documentés.
-
-## Projets récents
-
-- **Chatbot étudiant ESP**  
-  Un assistant conversationnel développé avec Python, Rasa et Flask pour aider les étudiants à naviguer les ressources académiques de l’école.
-
-- **Plateforme de gestion immobilière**  
-  Application web avec Next.js et Tailwind CSS pour l’interface, et une API Laravel sécurisée pour le backend.
-
-## Domaines de collaboration
-
-Je suis ouvert aux opportunités de collaboration dans les domaines suivants :
-
-- Intelligence artificielle et science des données
-- Développement fullstack (Python, React, Next.js, Node.js)
-- Projets open source à vocation éducative ou sociale
-
-## Me contacter
-
-- Email : `diawabdoulaye25omar@gmail.com`  
-- LinkedIn : [linkedin.com/in/25abdoulayediaw](https://www.linkedin.com/in/25abdoulayediaw)  
-- [![Portfolio](https://img.shields.io/badge/🌐%20Mon%20site-abdoulaye--diaw.vercel.app-blue?style=flat&logo=vercel&logoColor=white)](https://abdoulaye-diaw.vercel.app)
-
-
-## Compétences techniques
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=25Abzo&show_icons=true&theme=default)
+Directement issu de l'**École Supérieure Polytechnique de Dakar (ESP)**, je me spécialise dans la création de solutions intelligentes qui fusionnent le développement Full-Stack robuste et la puissance de l'IA générative (**LLMs, RAG, Agents**).
 
 ---
 
-> Ce dépôt est un profil GitHub personnalisé. Il reflète mes compétences, mes intérêts, et les projets que je construis. N'hésitez pas à me contacter pour échanger ou collaborer.
+## Expertise & Focus
+- **IA & NLP :** Architectures RAG, Agents autonomes, Fine-tuning de modèles, Voice Cloning (TTS).
+- **Architecture Web :** Création de SaaS scalables avec FastAPI et Next.js.
+- **Data Engineering :** Gestion de bases de données vectorielles (FAISS, ChromaDB) et relationnelles.
+
+---
+
+## Stack Technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Intelligence Artificielle** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+---
+
+## Projets Phares
+
+### SaaS d'Analyse Vidéo Assistée par IA
+Développement d'agents LLM spécialisés dans l'extraction automatique de highlights et la génération de sous-titres synchronisés (NLP).
+- **Tech Stack :** Next.js, FastAPI, OpenAI API, Webhooks.
+
+### Text-to-Speech & Voice Cloning
+Recherche et implémentation de modèles de Deep Learning pour le clonage de voix haute fidélité.
+- **Focus :** Fine-tuning de modèles neuronaux et analyse des architectures TTS.
+
+### Chatbot ESP (Version RAG)
+Assistant intelligent pour les ressources académiques utilisant un pipeline de récupération d'information (Embeddings & Vector Search).
+- **Tech Stack :** Python, LangChain, FAISS, FastAPI.
+
+---
+
+## Statistiques GitHub
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=25Abzo&theme=vision-friendly-dark&hide_border=true)>
+
+---
+
+## Me Contacter
+
+- **Email :** [diawabdoulaye25omar@gmail.com](mailto:diawabdoulaye25omar@gmail.com)
+- **LinkedIn :** [linkedin.com/in/25abdoulayediaw](https://www.linkedin.com/in/25abdoulayediaw)
+- **Portfolio :** [![Portfolio](https://img.shields.io/badge/🌐%20Visiter%20mon%20site-blue?style=flat-square)](https://abdoulayediaw.online)
+
+---
+
+> *Passionné par l'innovation, je suis toujours ouvert aux collaborations sur des projets Open Source à fort impact social ou technologique.*
