@@ -1,11 +1,12 @@
 # Abdoulaye DIAW
-### AI Engineer Junior | Full-Stack Developer | Master IA & Big Data
+### AI Engineer | Full-Stack Developer | Master IA & Big Data
 
 Directement issu de l'**École Supérieure Polytechnique de Dakar (ESP)**, je me spécialise dans la création de solutions intelligentes qui fusionnent le développement Full-Stack robuste et la puissance de l'IA générative (**LLMs, RAG, Agents**).
 
 ---
 
 ## Expertise & Focus
+
 - **IA & NLP :** Architectures RAG, Agents autonomes, Fine-tuning de modèles, Voice Cloning (TTS).
 - **Architecture Web :** Création de SaaS scalables avec FastAPI et Next.js.
 - **Data Engineering :** Gestion de bases de données vectorielles (FAISS, ChromaDB) et relationnelles.
@@ -25,29 +26,29 @@ Directement issu de l'**École Supérieure Polytechnique de Dakar (ESP)**, je me
 
 ## Projets Phares
 
-### SaaS d'Analyse Vidéo Assistée par IA
+### 🎬 SaaS d'Analyse Vidéo Assistée par IA
 Développement d'agents LLM spécialisés dans l'extraction automatique de highlights et la génération de sous-titres synchronisés (NLP).
 - **Tech Stack :** Next.js, FastAPI, OpenAI API, Webhooks.
 
-### Text-to-Speech & Voice Cloning
+### 🎙️ Text-to-Speech & Voice Cloning
 Recherche et implémentation de modèles de Deep Learning pour le clonage de voix haute fidélité.
 - **Focus :** Fine-tuning de modèles neuronaux et analyse des architectures TTS.
 
-### Chatbot ESP (Version RAG)
-Assistant intelligent pour les ressources académiques utilisant un pipeline de récupération d'information (Embeddings & Vector Search).
+### 🤖 Chatbot ESP (RAG Pipeline)
+Assistant intelligent pour les ressources académiques utilisant un pipeline de récupération d'information.
 - **Tech Stack :** Python, LangChain, FAISS, FastAPI.
 
 ---
 
 ## Statistiques GitHub
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=25Abzo&theme=vision-friendly-dark&hide_border=true)>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=25Abzo&theme=vision-friendly-dark&hide_border=true)
 
 ---
 
 ## Me Contacter
 
-- **Email :** [diawabdoulaye25omar@gmail.com](mailto:diawabdoulaye25omar@gmail.com)
+- **Email :** [abdoulaye25.diaw@gmail.com](mailto:abdoulaye25.diaw@gmail.com)
 - **LinkedIn :** [linkedin.com/in/25abdoulayediaw](https://www.linkedin.com/in/25abdoulayediaw)
 - **Portfolio :** [![Portfolio](https://img.shields.io/badge/🌐%20Visiter%20mon%20site-blue?style=flat-square)](https://abdoulayediaw.online)
 
