@@ -8,72 +8,72 @@
 </p>
 
 <p align="center">
-  <b><a href="#-english">🇬🇧 English</a> · <a href="#-français">🇫🇷 Français</a></b>
+  <b><a href="#english">English</a> | <a href="#français">Français</a></b>
 </p>
 
 ---
 
-## 🇬🇧 English
+## English
 
 I design and ship AI products end-to-end — LLM agents, RAG pipelines, REST APIs and modern web apps. MSc in AI & Big Data @ ESP Dakar.
 
-### 🎯 Expertise & Focus
-- 🤖 **AI & NLP** — RAG architectures, autonomous agents, fine-tuning, Voice Cloning (TTS)
-- 🧩 **Web architecture** — scalable SaaS with **FastAPI** + **Next.js**
-- 🗄️ **Data** — vector databases (FAISS, ChromaDB) & relational (PostgreSQL)
-- 🌍 Open to **freelance** work and high-impact open-source collaborations
+### Expertise & Focus
+- **AI & NLP** — RAG architectures, autonomous agents, fine-tuning, Voice Cloning (TTS)
+- **Web architecture** — scalable SaaS with FastAPI + Next.js
+- **Data** — vector databases (FAISS, ChromaDB) & relational (PostgreSQL)
+- Open to **freelance** work and high-impact open-source collaborations
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**⚡ [GenForge AI](https://github.com/25Abzo/GenForge) — AI LinkedIn content SaaS**
+**[GenForge AI](https://github.com/25Abzo/GenForge) — AI LinkedIn content SaaS**
 A full production SaaS: AI-generated posts, bios and summaries, credit system, subscriptions and payments. Production-grade — auth, RLS, unit & E2E tests.
 `Next.js 15` · `TypeScript` · `Groq (Llama 3.3 70B)` · `Supabase` · `Stripe` · `shadcn/ui`
 
-**🎬 AI-Assisted Video Analysis SaaS**
+**AI-Assisted Video Analysis SaaS**
 LLM agents for automatic highlight extraction and synchronized subtitle generation (NLP).
 `Next.js` · `FastAPI` · `OpenAI API` · `Webhooks`
 
-**🎙️ [Text-to-Speech & Voice Cloning](https://github.com/25Abzo/neural-tts)**
+**[Text-to-Speech & Voice Cloning](https://github.com/25Abzo/neural-tts)**
 Deep-learning models for high-fidelity voice cloning — neural model fine-tuning and TTS architecture analysis.
 `Python` · `PyTorch`
 
-**🤖 [ESP Chatbot — RAG Pipeline](https://github.com/25Abzo/Chatbot_ESP)**
+**[ESP Chatbot — RAG Pipeline](https://github.com/25Abzo/Chatbot_ESP)**
 Intelligent assistant for academic resources, built on an information-retrieval pipeline.
 `Python` · `LangChain` · `FAISS` · `FastAPI`
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 Je conçois et déploie des produits IA de bout en bout — agents LLM, pipelines RAG, APIs REST et interfaces web modernes. Master IA & Big Data @ ESP Dakar.
 
-### 🎯 Expertise & Focus
-- 🤖 **IA & NLP** — architectures RAG, agents autonomes, fine-tuning, Voice Cloning (TTS)
-- 🧩 **Architecture web** — SaaS scalables avec **FastAPI** + **Next.js**
-- 🗄️ **Data** — bases vectorielles (FAISS, ChromaDB) & relationnelles (PostgreSQL)
-- 🌍 Ouvert au **freelance** et aux collaborations open source à fort impact
+### Expertise & Focus
+- **IA & NLP** — architectures RAG, agents autonomes, fine-tuning, Voice Cloning (TTS)
+- **Architecture web** — SaaS scalables avec FastAPI + Next.js
+- **Data** — bases vectorielles (FAISS, ChromaDB) & relationnelles (PostgreSQL)
+- Ouvert au **freelance** et aux collaborations open source à fort impact
 
-### 🚀 Projets phares
+### Projets phares
 
-**⚡ [GenForge AI](https://github.com/25Abzo/GenForge) — SaaS de génération de contenu LinkedIn**
+**[GenForge AI](https://github.com/25Abzo/GenForge) — SaaS de génération de contenu LinkedIn**
 Plateforme SaaS complète : génération de posts, bios et résumés par IA, système de crédits, abonnements et paiements. Architecture production — auth, RLS, tests unitaires & E2E.
 `Next.js 15` · `TypeScript` · `Groq (Llama 3.3 70B)` · `Supabase` · `Stripe` · `shadcn/ui`
 
-**🎬 SaaS d'analyse vidéo assistée par IA**
+**SaaS d'analyse vidéo assistée par IA**
 Agents LLM pour l'extraction automatique de highlights et la génération de sous-titres synchronisés (NLP).
 `Next.js` · `FastAPI` · `OpenAI API` · `Webhooks`
 
-**🎙️ [Text-to-Speech & Voice Cloning](https://github.com/25Abzo/neural-tts)**
+**[Text-to-Speech & Voice Cloning](https://github.com/25Abzo/neural-tts)**
 Modèles de Deep Learning pour le clonage de voix haute fidélité — fine-tuning de modèles neuronaux, analyse des architectures TTS.
 `Python` · `PyTorch`
 
-**🤖 [Chatbot ESP — Pipeline RAG](https://github.com/25Abzo/Chatbot_ESP)**
+**[Chatbot ESP — Pipeline RAG](https://github.com/25Abzo/Chatbot_ESP)**
 Assistant intelligent pour les ressources académiques, basé sur un pipeline de récupération d'information.
 `Python` · `LangChain` · `FAISS` · `FastAPI`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / NLP**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -98,7 +98,7 @@ Assistant intelligent pour les ressources académiques, basé sur un pipeline de
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=25Abzo&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
@@ -110,4 +110,4 @@ Assistant intelligent pour les ressources académiques, basé sur un pipeline de
 
 ---
 
-<p align="center"><i>Driven by innovation · Passionné par l'innovation 🚀</i></p>
+<p align="center"><i>Driven by innovation · Passionné par l'innovation</i></p>
